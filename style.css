@@ -1,0 +1,62 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+header{
+  margin-bottom: 20px;
+}
+#header{
+  margin-left: auto;
+  margin-right: auto;
+  background-color: purple;
+  width: 90%;
+  height: 200px;
+}
+#navigation{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: yellow;
+  width: 90%;
+  height: 50px;
+}
+.menuli{
+  display: inline-block;
+}
+#organic{
+  display: inline-block;
+  background-color: red;
+  height: 500px;
+  width: 20vw;
+  float: left;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+#three{
+  display: inline-block;
+  background-color: green;
+  height: 500px;
+  width: 40vw;
+  margin-right: 3%
+}
+#widget{
+  display: inline-block;
+  background-color: blue;
+  height: 500px;
+  width: 20vw;
+  float: right;
+  margin-right: 5%;
+  margin-bottom: 10px;
+}
+#test_widget{
+  height: 350px;
+  width: 20vw;
+  margin-bottom: 10px;
+  background-color:
+}
+#recent_post{
+  height: 140px;
+  width: 20vw;
+  background-color: grey;
+
+}
